@@ -1,8 +1,8 @@
 # Title: Host List by lejencodes
 # Expires: 1 days
 # Description: Small list for movie stream site
-# Homepage: https://github.com/lejencodes/tools
-# Source: https://github.com/lejencodes/tools/blob/master/src/adblock.txt
+# Homepage: https://github.com/lejencodes/toolz
+# Source: https://github.com/lejencodes/toolz/blob/master/src/adblock.txt
 
 #============ Ads =============
 # --- 88hd
