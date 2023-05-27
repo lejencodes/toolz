@@ -9,3 +9,4 @@
 0.0.0.0 xcggzzb.com
 0.0.0.0 cqtnfs.com
 0.0.0.0 51.la
+0.0.0.0 cdn.xianzhice.com/maizhan/js
