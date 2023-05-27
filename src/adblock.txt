@@ -12,8 +12,11 @@
 0.0.0.0 sdk.51.la
 0.0.0.0 collect-v6.51.la
 0.0.0.0 360buyimg.com
-0.0.0.0 bdxiguaimg.combdxiguaimg.com
+0.0.0.0 img10.360buyimg.com
+0.0.0.0 bdxiguaimg.com
+0.0.0.0 p1.bdxiguaimg.com
 0.0.0.0 rltdxt.com
+0.0.0.0 xcdn.rltdxt.com
 0.0.0.0 966210.com
 0.0.0.0 372444.com
 0.0.0.0 vip.960e.xyz
