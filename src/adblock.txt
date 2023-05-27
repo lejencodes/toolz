@@ -12,4 +12,5 @@
 0.0.0.0 sdk.51.la
 0.0.0.0 collect-v6.51.la
 0.0.0.0 360buyimg.com
-0.0.0.0 jsjinfu.com
+0.0.0.0 bdxiguaimg.combdxiguaimg.com
+0.0.0.0 rltdxt.com
