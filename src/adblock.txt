@@ -14,3 +14,7 @@
 0.0.0.0 360buyimg.com
 0.0.0.0 bdxiguaimg.combdxiguaimg.com
 0.0.0.0 rltdxt.com
+0.0.0.0 966210.com
+0.0.0.0 372444.com
+0.0.0.0 vip.960e.xyz
+0.0.0.0 vip.cqtnfs.com
