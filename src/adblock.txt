@@ -6,6 +6,7 @@
 
 #============ Ads =============
 # --- 88hd
+0.0.0.0 cdn-01.xcggzzb.com
 0.0.0.0 xcggzzb.com
 0.0.0.0 cqtnfs.com
 0.0.0.0 51.la
