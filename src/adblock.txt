@@ -23,6 +23,8 @@
 0.0.0.0 vip.960e.xyz
 0.0.0.0 vip.cqtnfs.com
 
+# --- kanju2
+0.0.0.0 kanju2.com/templets/default/images/js/layer/layer.js
 
 # --- Others
 0.0.0.0 anipfgv.cc
@@ -33,3 +35,4 @@
 0.0.0.0 9j103jg.meng3721.com
 0.0.0.0 q3d36y.com
 0.0.0.0 qwerty92.wdigscqeple.com
+0.0.0.0 wap.elevatorpartsbuy.com
