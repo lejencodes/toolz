@@ -37,3 +37,6 @@
 0.0.0.0 q3d36y.com
 0.0.0.0 qwerty92.wdigscqeple.com
 0.0.0.0 wap.elevatorpartsbuy.com
+
+# --- xhs
+0.0.0.0 spider-tracker.xiaohongshu.com
