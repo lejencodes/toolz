@@ -40,3 +40,36 @@
 
 # --- xhs
 0.0.0.0 spider-tracker.xiaohongshu.com
+
+# --- mi projector
+0.0.0.0	h5.tv.mi.com
+0.0.0.0 media.ptmi.gitv.tv
+0.0.0.0 gstat.ptmi.gitv.tv
+0.0.0.0 apis.ptfm.gitv.tv
+0.0.0.0 resolver.msg.global.xiaomi.net
+0.0.0.0 app.chat.global.xiaomi.net
+0.0.0.0 fm-cms.tos-cn-beijing.volces.com
+0.0.0.0 ottimg.cdn.pandora.xiaomi.com
+0.0.0.0 api.io.mi.com
+0.0.0.0 access.speech.ai.xiaomi.com
+0.0.0.0 bss.tv.mi.com
+
+# --- shopee
+0.0.0.0 patronus.idata.shopeemobile.com
+0.0.0.0 endpoint.mms.shopee.co.id
+0.0.0.0 dp.tracking.shopee.com.my
+0.0.0.0 livetech.live.shopee.co.id
+0.0.0.0 df.infra.shopee.com.my
+0.0.0.0 ubt.tracking.shopee.com.my
+0.0.0.0 ccms.shopee.io
+0.0.0.0 deo.shopeemobile.com
+
+# --- lazada
+0.0.0.0 my-live.slatic.net
+0.0.0.0 filebroker-cdn.lazada.com.my
+0.0.0.0 acs-m.lazada.sg
+
+# --- testing
+0.0.0.0 pasta.dianxinos.com
+0.0.0.0 cmpassport.com
+0.0.0.0 cdngarenanow-a.akamaihd.net
