@@ -46,6 +46,7 @@
 0.0.0.0 media.ptmi.gitv.tv
 0.0.0.0 gstat.ptmi.gitv.tv
 0.0.0.0 apis.ptfm.gitv.tv
+0.0.0.0 videodaily.ptmi.gitv.tv
 0.0.0.0 resolver.msg.global.xiaomi.net
 0.0.0.0 app.chat.global.xiaomi.net
 0.0.0.0 fm-cms.tos-cn-beijing.volces.com
@@ -76,6 +77,8 @@
 0.0.0.0 cmpassport.com
 0.0.0.0 cdngarenanow-a.akamaihd.net
 0.0.0.0 tizen.org
+
+# --- 18
 0.0.0.0 hpv112.com
 0.0.0.0 91selfie.com
 0.0.0.0 fans.91selfie.com
@@ -85,4 +88,5 @@
 0.0.0.0 hnhflqgc.com
 0.0.0.0 ludu319.com
 0.0.0.0 trustworthyturnstileboyfriend.com
-0.0.0.0 friendshipmale.com
+0.0.0.0 3vtk5.com
+
