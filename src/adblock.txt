@@ -27,10 +27,6 @@
 0.0.0.0 vip.960e.xyz
 0.0.0.0 vip.cqtnfs.com
 
-# --- kanju2
-0.0.0.0 kanju2.com/templets/default/images/js/layer/layer.js
-0.0.0.0 kanju2.com/js/js3.js?v=c
-
 # --- Others
 0.0.0.0 anipfgv.cc
 0.0.0.0 tgz.sqyzr.xyz
