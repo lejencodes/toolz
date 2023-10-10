@@ -80,3 +80,6 @@
 0.0.0.0 cmpassport.com
 0.0.0.0 cdngarenanow-a.akamaihd.net
 0.0.0.0 tizen.org
+0.0.0.0 hpv112.com
+0.0.0.0 91selfie.com
+0.0.0.0 ssyymy.com
