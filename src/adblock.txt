@@ -5,6 +5,10 @@
 # Source: https://github.com/lejencodes/toolz/blob/master/src/adblock.txt
 
 #============ Ads =============
+#
+0.0.0.0 zamcs.com
+0.0.0.0 gw.zamcs.com
+
 # --- 88hd
 0.0.0.0 cdn-01.xcggzzb.com
 0.0.0.0 xcggzzb.com
