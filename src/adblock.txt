@@ -78,6 +78,8 @@
 0.0.0.0 tizen.org
 0.0.0.0 hpv112.com
 0.0.0.0 91selfie.com
+0.0.0.0 fans.91selfie.com
+0.0.0.0 img.killcovid2021.com
 0.0.0.0 ssyymy.com
 0.0.0.0 sjhfkhgut009.com
 0.0.0.0 zhao-zupu.com
