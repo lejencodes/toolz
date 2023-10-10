@@ -89,4 +89,8 @@
 0.0.0.0 ludu319.com
 0.0.0.0 trustworthyturnstileboyfriend.com
 0.0.0.0 3vtk5.com
+0.0.0.0 uea8pro.com
 
+# --- ide
+0.0.0.0 jets.idejihuo.com
+0.0.0.0 blog.idejihuo.com
