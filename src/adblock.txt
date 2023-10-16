@@ -8,6 +8,7 @@
 #
 0.0.0.0 zamcs.com
 0.0.0.0 gw.zamcs.com
+0.0.0.0 relaxespawner.space
 
 # --- 88hd
 0.0.0.0 cdn-01.xcggzzb.com
