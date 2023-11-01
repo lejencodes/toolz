@@ -100,6 +100,19 @@
 0.0.0.0 1fcc.2u3v4w5x6y.com
 0.0.0.0 augn5927.xn--oqqx70cygbl82g.xn--55qx5d
 0.0.0.0 union.maccms.la
+0.0.0.0 www.hnjiexi.com
+0.0.0.0 ganma123.rbbjan.com
+0.0.0.0 rrrtj.syjysj.com
+0.0.0.0 onvideo.ssrcdn.com
+0.0.0.0 _9527._https.ht536.com
+0.0.0.0 js6.xn--1ct366iukbz0j.cc
+0.0.0.0 qmxo39390.xn--9iq655d4u1a.com
+0.0.0.0 ip.qd28.net
+0.0.0.0 17s1.lbfang.com
+0.0.0.0 17erci.lbfang.com
+0.0.0.0 backend.lbfang.com
+0.0.0.0 aghl6857.xn--oqqx70cygbl82g.xn--55qx5d
+
 
 # --- ide
 0.0.0.0 jets.idejihuo.com
