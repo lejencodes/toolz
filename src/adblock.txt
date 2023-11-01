@@ -91,6 +91,15 @@
 0.0.0.0 trustworthyturnstileboyfriend.com
 0.0.0.0 3vtk5.com
 0.0.0.0 uea8pro.com
+0.0.0.0 ht536.com
+0.0.0.0 vip.ffzy-online6.com
+0.0.0.0 1fcc.2u3v4w5x6y.com
+0.0.0.0 _8005._https.1fcc.2u3v4w5x6y.com
+0.0.0.0 smartop-sdkapi-ipv6.jiguang.cn
+0.0.0.0 vip.ffzy-online6.com
+0.0.0.0 1fcc.2u3v4w5x6y.com
+0.0.0.0 augn5927.xn--oqqx70cygbl82g.xn--55qx5d
+0.0.0.0 union.maccms.la
 
 # --- ide
 0.0.0.0 jets.idejihuo.com
