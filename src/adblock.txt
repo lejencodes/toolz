@@ -47,6 +47,7 @@
 0.0.0.0 ludashi.com
 0.0.0.0 qj90.com/qj2023/xuanfu.js
 0.0.0.0 bytegoofy.com
+0.0.0.0 khibmij.com
 
 # --- Others
 0.0.0.0 anipfgv.cc
