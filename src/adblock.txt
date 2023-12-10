@@ -27,7 +27,7 @@
 0.0.0.0 api.bdustatic.com
 0.0.0.0 conspicuousclasp.com
 
-# --- 88hd
+# --- chinese
 0.0.0.0 cdn-01.xcggzzb.com
 0.0.0.0 xcggzzb.com
 0.0.0.0 cqtnfs.com
@@ -44,6 +44,7 @@
 0.0.0.0 372444.com
 0.0.0.0 vip.960e.xyz
 0.0.0.0 vip.cqtnfs.com
+0.0.0.0 pp.chuzushijian.cn
 
 # --- Others
 0.0.0.0 anipfgv.cc
