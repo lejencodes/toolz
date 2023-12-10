@@ -44,7 +44,7 @@
 0.0.0.0 372444.com
 0.0.0.0 vip.960e.xyz
 0.0.0.0 vip.cqtnfs.com
-0.0.0.0 pp.chuzushijian.cn
+0.0.0.0 ludashi.com
 
 # --- Others
 0.0.0.0 anipfgv.cc
