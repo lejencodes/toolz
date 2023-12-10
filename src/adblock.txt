@@ -45,7 +45,6 @@
 0.0.0.0 vip.960e.xyz
 0.0.0.0 vip.cqtnfs.com
 0.0.0.0 ludashi.com
-0.0.0.0 qj90.com/qj2023/xuanfu.js
 0.0.0.0 bytegoofy.com
 0.0.0.0 khibmij.com
 
