@@ -9,6 +9,23 @@
 0.0.0.0 zamcs.com
 0.0.0.0 gw.zamcs.com
 0.0.0.0 relaxespawner.space
+0.0.0.0 maxun066.top
+0.0.0.0 int.qiniuyun1.xyz
+0.0.0.0 888zz888zz.com
+0.0.0.0 1cdn.yuanpinghengkangfuyouxiangongsi.top
+0.0.0.0 555zz555zz.com
+0.0.0.0 tsdq8.com
+0.0.0.0 int.jstatic.xyz
+0.0.0.0 int.ucloud27.xyz
+0.0.0.0 fd08.juxin8888.com
+0.0.0.0 rz1fl5.g.1113dns.com
+0.0.0.0 guiltjadechances.com
+0.0.0.0 offergate-ecommerce-cdn5.com
+0.0.0.0 forklacy.com
+0.0.0.0 invl.io
+0.0.0.0 shamelessgoodwill.com
+0.0.0.0 api.bdustatic.com
+0.0.0.0 conspicuousclasp.com
 
 # --- 88hd
 0.0.0.0 cdn-01.xcggzzb.com
