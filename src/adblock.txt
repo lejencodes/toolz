@@ -50,6 +50,7 @@
 0.0.0.0 czr93rxry.com
 0.0.0.0 kpic.xn--czr93rxry.com
 0.0.0.0 itwzlyq.com
+0.0.0.0 1014kc.itwzlyq.com
 0.0.0.0 10kcc.tobyxev.com
 
 # --- Others
