@@ -45,7 +45,9 @@
 0.0.0.0 vip.cqtnfs.com
 0.0.0.0 ludashi.com
 0.0.0.0 bytegoofy.com
+0.0.0.0 lf1-cdn-tos.bytegoofy.com
 0.0.0.0 khibmij.com
+0.0.0.0 10kg.khibmij.com
 0.0.0.0 ysxt9.com
 0.0.0.0 czr93rxry.com
 0.0.0.0 kpic.xn--czr93rxry.com
