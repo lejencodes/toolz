@@ -5,7 +5,6 @@
 # Source: https://github.com/lejencodes/toolz/blob/master/src/adblock.txt
 
 #============ Ads =============
-#
 0.0.0.0 zamcs.com
 0.0.0.0 gw.zamcs.com
 0.0.0.0 relaxespawner.space
@@ -50,7 +49,6 @@
 0.0.0.0 ysxt9.com
 0.0.0.0 czr93rxry.com
 0.0.0.0 itwzlyq.com
-
 
 # --- Others
 0.0.0.0 anipfgv.cc
@@ -136,7 +134,6 @@
 0.0.0.0 17erci.lbfang.com
 0.0.0.0 backend.lbfang.com
 0.0.0.0 aghl6857.xn--oqqx70cygbl82g.xn--55qx5d
-
 
 # --- ide
 0.0.0.0 jets.idejihuo.com
