@@ -1,146 +1,214 @@
 # Title: Host List by lejencodes
 # Expires: 1 days
-# Description: Small list for movie stream site
+# Description: Small List for Personal Use
 # Homepage: https://github.com/lejencodes/toolz
-# Source: https://github.com/lejencodes/toolz/blob/master/src/adblock.txt
+# Source: https://raw.githubusercontent.com/lejencodes/toolz/master/src/adblock.txt
 
-#============ Ads =============
-0.0.0.0 zamcs.com
-0.0.0.0 gw.zamcs.com
-0.0.0.0 relaxespawner.space
-0.0.0.0 maxun066.top
-0.0.0.0 int.qiniuyun1.xyz
-0.0.0.0 888zz888zz.com
+#============ Ads ============
 0.0.0.0 1cdn.yuanpinghengkangfuyouxiangongsi.top
 0.0.0.0 555zz555zz.com
-0.0.0.0 tsdq8.com
-0.0.0.0 int.jstatic.xyz
-0.0.0.0 int.ucloud27.xyz
-0.0.0.0 fd08.juxin8888.com
-0.0.0.0 rz1fl5.g.1113dns.com
-0.0.0.0 guiltjadechances.com
-0.0.0.0 offergate-ecommerce-cdn5.com
-0.0.0.0 forklacy.com
-0.0.0.0 invl.io
-0.0.0.0 shamelessgoodwill.com
+0.0.0.0 888zz888zz.com
 0.0.0.0 api.bdustatic.com
 0.0.0.0 conspicuousclasp.com
+0.0.0.0 fd08.juxin8888.com
+0.0.0.0 forklacy.com
+0.0.0.0 guiltjadechances.com
+0.0.0.0 gw.zamcs.com
+0.0.0.0 int.jstatic.xyz
+0.0.0.0 int.qiniuyun1.xyz
+0.0.0.0 int.ucloud27.xyz
+0.0.0.0 invl.io
+0.0.0.0 maxun066.top
+0.0.0.0 offergate-ecommerce-cdn5.com
+0.0.0.0 relaxespawner.space
+0.0.0.0 rz1fl5.g.1113dns.com
+0.0.0.0 shamelessgoodwill.com
+0.0.0.0 tsdq8.com
+0.0.0.0 zamcs.com
 
-# --- chinese
-0.0.0.0 cdn-01.xcggzzb.com
-0.0.0.0 xcggzzb.com
-0.0.0.0 cqtnfs.com
-0.0.0.0 51.la
-0.0.0.0 sdk.51.la
-0.0.0.0 collect-v6.51.la
-0.0.0.0 360buyimg.com
-0.0.0.0 img10.360buyimg.com
-0.0.0.0 bdxiguaimg.com
-0.0.0.0 p1.bdxiguaimg.com
-0.0.0.0 rltdxt.com
-0.0.0.0 xcdn.rltdxt.com
-0.0.0.0 966210.com
-0.0.0.0 372444.com
-0.0.0.0 vip.960e.xyz
-0.0.0.0 vip.cqtnfs.com
-0.0.0.0 ludashi.com
-0.0.0.0 bytegoofy.com
-0.0.0.0 lf1-cdn-tos.bytegoofy.com
-0.0.0.0 khibmij.com
-0.0.0.0 10kg.khibmij.com
-0.0.0.0 ysxt9.com
-0.0.0.0 czr93rxry.com
-0.0.0.0 kpic.xn--czr93rxry.com
-0.0.0.0 itwzlyq.com
+#============ Chinese ============
 0.0.0.0 1014kc.itwzlyq.com
 0.0.0.0 10kcc.tobyxev.com
+0.0.0.0 10kg.khibmij.com
+0.0.0.0 360buyimg.com
+0.0.0.0 372444.com
+0.0.0.0 51.la
+0.0.0.0 966210.com
+0.0.0.0 bdxiguaimg.com
+0.0.0.0 bytegoofy.com
+0.0.0.0 cdn-01.xcggzzb.com
+0.0.0.0 collect-v6.51.la
+0.0.0.0 cqtnfs.com
+0.0.0.0 czr93rxry.com
+0.0.0.0 img10.360buyimg.com
+0.0.0.0 itwzlyq.com
+0.0.0.0 khibmij.com
+0.0.0.0 kpic.xn--czr93rxry.com
+0.0.0.0 lf1-cdn-tos.bytegoofy.com
+0.0.0.0 ludashi.com
+0.0.0.0 p1.bdxiguaimg.com
+0.0.0.0 rltdxt.com
+0.0.0.0 sdk.51.la
+0.0.0.0 vip.960e.xyz
+0.0.0.0 vip.cqtnfs.com
+0.0.0.0 xcdn.rltdxt.com
+0.0.0.0 xcggzzb.com
+0.0.0.0 ysxt9.com
 0.0.0.0 zha.ysxt9.com
 
-# --- Others
-0.0.0.0 anipfgv.cc
-0.0.0.0 tgz.sqyzr.xyz
+#============ Others ============
 0.0.0.0 588539a.xyz
+0.0.0.0 9j103jg.meng3721.com
+0.0.0.0 anipfgv.cc
 0.0.0.0 ccs.donchen501.cn
 0.0.0.0 hqsggzt.com
-0.0.0.0 9j103jg.meng3721.com
 0.0.0.0 q3d36y.com
 0.0.0.0 qwerty92.wdigscqeple.com
+0.0.0.0 tgz.sqyzr.xyz
 0.0.0.0 wap.elevatorpartsbuy.com
 
-# --- xhs
+#============ XHS ============
 0.0.0.0 spider-tracker.xiaohongshu.com
 
-# --- mi projector
+#============ MI PROJECTOR ============
 0.0.0.0	h5.tv.mi.com
-0.0.0.0 media.ptmi.gitv.tv
-0.0.0.0 gstat.ptmi.gitv.tv
-0.0.0.0 apis.ptfm.gitv.tv
-0.0.0.0 videodaily.ptmi.gitv.tv
-0.0.0.0 resolver.msg.global.xiaomi.net
-0.0.0.0 app.chat.global.xiaomi.net
-0.0.0.0 fm-cms.tos-cn-beijing.volces.com
-0.0.0.0 ottimg.cdn.pandora.xiaomi.com
-0.0.0.0 api.io.mi.com
 0.0.0.0 access.speech.ai.xiaomi.com
+0.0.0.0 api.io.mi.com
+0.0.0.0 api.mi-img.com
+0.0.0.0 apis.ptfm.gitv.tv
+0.0.0.0 app.chat.global.xiaomi.net
 0.0.0.0 bss.tv.mi.com
 0.0.0.0 cn.ot.io.mi.com
-0.0.0.0 api.mi-img.com
+0.0.0.0 fm-cms.tos-cn-beijing.volces.com
+0.0.0.0 gstat.ptmi.gitv.tv
+0.0.0.0 media.ptmi.gitv.tv
+0.0.0.0 ottimg.cdn.pandora.xiaomi.com
+0.0.0.0 resolver.msg.global.xiaomi.net
+0.0.0.0 videodaily.ptmi.gitv.tv
+0.0.0.0 tracker-preview.ai.xiaomi.com
 
-# --- shopee
-0.0.0.0 patronus.idata.shopeemobile.com
-0.0.0.0 endpoint.mms.shopee.co.id
-0.0.0.0 dp.tracking.shopee.com.my
-0.0.0.0 livetech.live.shopee.co.id
-0.0.0.0 df.infra.shopee.com.my
-0.0.0.0 ubt.tracking.shopee.com.my
+#============ SHOPEE ============
 0.0.0.0 ccms.shopee.io
+0.0.0.0 cv.shopee.com.my
 0.0.0.0 deo.shopeemobile.com
+0.0.0.0 df.infra.shopee.com.my
+0.0.0.0 dp.tracking.shopee.com.my
+0.0.0.0 endpoint.mms.shopee.co.id
+0.0.0.0 livetech.live.shopee.co.id
+0.0.0.0 patronus.idata.shopeemobile.com
+0.0.0.0 ubt.tracking.shopee.com.my
+0.0.0.0 zshopee.v.baishan-cloud.net
 
-# --- lazada
-0.0.0.0 my-live.slatic.net
-0.0.0.0 filebroker-cdn.lazada.com.my
+#============ LAZADA ============
 0.0.0.0 acs-m.lazada.sg
+0.0.0.0 filebroker-cdn.lazada.com.my
+0.0.0.0 my-live.slatic.net
 
-# --- testing
-0.0.0.0 pasta.dianxinos.com
-0.0.0.0 cmpassport.com
+#============ TESTING ============
+0.0.0.0 126890231bf5.mindfulzen.xyz
+0.0.0.0 4dlidd0w.ovslegodl.sched.ovscdns.com
+0.0.0.0 _8008._https.10kcc.tobyxev.com
+0.0.0.0 a1887.dscq.akamai.net
+0.0.0.0 alternatespikeloudly.com
+0.0.0.0 asparaguspallorspoken.com
+0.0.0.0 awardcynicalintimidating.com
+0.0.0.0 b-hls-02.doppiocdn.com
+0.0.0.0 b-hls-02.doppiocdn.org
+0.0.0.0 begwhistlinggem.com
+0.0.0.0 best-vpn2024.com
+0.0.0.0 cattleabruptlybeware.com
+0.0.0.0 cdn53.bestjavcdn.com
 0.0.0.0 cdngarenanow-a.akamaihd.net
+0.0.0.0 cheerlessbankingliked.com
+0.0.0.0 cmpassport.com
+0.0.0.0 comparativeexclusion.com
+0.0.0.0 concernedabominable.com
+0.0.0.0 crayonreareddreamt.com
+0.0.0.0 creative.myavlive.com
+0.0.0.0 crt.sectigo.com
+0.0.0.0 crt.usertrust.com
+0.0.0.0 dalecigarexcepting.com
+0.0.0.0 damagedmissionaryadmonish.com
+0.0.0.0 dietschoolvirtually.com
+0.0.0.0 edge-hls.doppiocdn.com
+0.0.0.0 elixarco.com
+0.0.0.0 flyinghead.github.io
+0.0.0.0 fonts.offer.alibaba.com
+0.0.0.0 fonts.pepperjamnetwork.com
+0.0.0.0 fonts.shareasale.com
+0.0.0.0 gropecemetery.com
+0.0.0.0 gw.mediation.unity3d.com
+0.0.0.0 h-adashx.ut.lazada.com
+0.0.0.0 hbevents.mz.unity3d.com
+0.0.0.0 impressivewhoop.com
+0.0.0.0 keygen.opendt.net
+0.0.0.0 moreoverwheelbarrow.com
+0.0.0.0 o-iab.mediation.unity3d.com
+0.0.0.0 o.iads.unity3d.com
+0.0.0.0 onerousethelpictures.com
+0.0.0.0 paleexamsletters.com
+0.0.0.0 pasta.dianxinos.com
+0.0.0.0 pendulumwhack.com
+0.0.0.0 pepperbufferacid.com
+0.0.0.0 positivejudge.com
+0.0.0.0 principaldingdecadence.com
+0.0.0.0 r2d2.uls.co.za
+0.0.0.0 replacementdispleased.com
+0.0.0.0 sneaknonstopattribute.com
+0.0.0.0 star.c10r.facebook.com
+0.0.0.0 strip.chat
+0.0.0.0 stripchat.ooo
+0.0.0.0 stripedonerous.com
+0.0.0.0 superchatlive.com
 0.0.0.0 tizen.org
+0.0.0.0 tnc16-alisg.byteoversea.com
+0.0.0.0 truthhascudgel.com
+0.0.0.0 unusualwarmingloner.com
+0.0.0.0 usage.readdle.com
+0.0.0.0 w.isx.unity3d.com
+0.0.0.0 wishfulla.com
+0.0.0.0 wsall.adiport.com.wcdnga.com
+0.0.0.0 wsall.inworket.com.wcdnga.com
+0.0.0.0 wsall.lardmoni.com.wcdnga.com
+0.0.0.0 wsall.tcheeter.com.wcdnga.com
 
-# --- 18
-0.0.0.0 hpv112.com
-0.0.0.0 91selfie.com
-0.0.0.0 fans.91selfie.com
-0.0.0.0 ssyymy.com
-0.0.0.0 sjhfkhgut009.com
-0.0.0.0 zhao-zupu.com
-0.0.0.0 hnhflqgc.com
-0.0.0.0 ludu319.com
-0.0.0.0 trustworthyturnstileboyfriend.com
-0.0.0.0 3vtk5.com
-0.0.0.0 uea8pro.com
-0.0.0.0 ht536.com
-0.0.0.0 vip.ffzy-online6.com
-0.0.0.0 1fcc.2u3v4w5x6y.com
-0.0.0.0 _8005._https.1fcc.2u3v4w5x6y.com
-0.0.0.0 smartop-sdkapi-ipv6.jiguang.cn
-0.0.0.0 vip.ffzy-online6.com
-0.0.0.0 1fcc.2u3v4w5x6y.com
-0.0.0.0 augn5927.xn--oqqx70cygbl82g.xn--55qx5d
-0.0.0.0 union.maccms.la
-0.0.0.0 www.hnjiexi.com
-0.0.0.0 ganma123.rbbjan.com
-0.0.0.0 rrrtj.syjysj.com
-0.0.0.0 onvideo.ssrcdn.com
-0.0.0.0 _9527._https.ht536.com
-0.0.0.0 js6.xn--1ct366iukbz0j.cc
-0.0.0.0 qmxo39390.xn--9iq655d4u1a.com
-0.0.0.0 ip.qd28.net
-0.0.0.0 17s1.lbfang.com
+#============ 18 ============
 0.0.0.0 17erci.lbfang.com
-0.0.0.0 backend.lbfang.com
+0.0.0.0 17s1.lbfang.com
+0.0.0.0 1fcc.2u3v4w5x6y.com
+0.0.0.0 1fcc.2u3v4w5x6y.com
+0.0.0.0 3vtk5.com
+0.0.0.0 91selfie.com
+0.0.0.0 _8005._https.1fcc.2u3v4w5x6y.com
+0.0.0.0 _9527._https.ht536.com
 0.0.0.0 aghl6857.xn--oqqx70cygbl82g.xn--55qx5d
+0.0.0.0 augn5927.xn--oqqx70cygbl82g.xn--55qx5d
+0.0.0.0 backend.lbfang.com
+0.0.0.0 fans.91selfie.com
+0.0.0.0 ganma123.rbbjan.com
+0.0.0.0 hnhflqgc.com
+0.0.0.0 hpv112.com
+0.0.0.0 ht536.com
+0.0.0.0 ip.qd28.net
+0.0.0.0 js6.xn--1ct366iukbz0j.cc
+0.0.0.0 ludu319.com
+0.0.0.0 onvideo.ssrcdn.com
+0.0.0.0 qmxo39390.xn--9iq655d4u1a.com
+0.0.0.0 rrrtj.syjysj.com
+0.0.0.0 sjhfkhgut009.com
+0.0.0.0 smartop-sdkapi-ipv6.jiguang.cn
+0.0.0.0 ssyymy.com
+0.0.0.0 trustworthyturnstileboyfriend.com
+0.0.0.0 uea8pro.com
+0.0.0.0 union.maccms.la
+0.0.0.0 vip.ffzy-online6.com
+0.0.0.0 vip.ffzy-online6.com
+0.0.0.0 www.hnjiexi.com
+0.0.0.0 zhao-zupu.com
 
+#============ IDE ============
+0.0.0.0 blog.idejihuo.com
+0.0.0.0 jets.idejihuo.com
 # --- ide
 0.0.0.0 jets.idejihuo.com
 0.0.0.0 blog.idejihuo.com
