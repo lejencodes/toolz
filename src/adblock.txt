@@ -209,6 +209,3 @@
 #============ IDE ============
 0.0.0.0 blog.idejihuo.com
 0.0.0.0 jets.idejihuo.com
-# --- ide
-0.0.0.0 jets.idejihuo.com
-0.0.0.0 blog.idejihuo.com
