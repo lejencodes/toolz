@@ -87,6 +87,9 @@
 0.0.0.0 videodaily.ptmi.gitv.tv
 0.0.0.0 tracker-preview.ai.xiaomi.com
 
+#============ TAOBAO ============
+0.0.0.0 xjp-jmacs.m.taobao.com
+
 #============ SHOPEE ============
 0.0.0.0 ccms.shopee.io
 0.0.0.0 cv.shopee.com.my
@@ -103,6 +106,7 @@
 0.0.0.0 acs-m.lazada.sg
 0.0.0.0 filebroker-cdn.lazada.com.my
 0.0.0.0 my-live.slatic.net
+0.0.0.0 h-adashx.ut.lazada.com
 
 #============ TESTING ============
 0.0.0.0 126890231bf5.mindfulzen.xyz
@@ -138,7 +142,6 @@
 0.0.0.0 fonts.shareasale.com
 0.0.0.0 gropecemetery.com
 0.0.0.0 gw.mediation.unity3d.com
-0.0.0.0 h-adashx.ut.lazada.com
 0.0.0.0 hbevents.mz.unity3d.com
 0.0.0.0 impressivewhoop.com
 0.0.0.0 keygen.opendt.net
@@ -171,6 +174,15 @@
 0.0.0.0 wsall.inworket.com.wcdnga.com
 0.0.0.0 wsall.lardmoni.com.wcdnga.com
 0.0.0.0 wsall.tcheeter.com.wcdnga.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 beacon.cimb.com.my
+0.0.0.0 shortsgp.im.qcloud.com
+0.0.0.0 sgqt0j-launches.appsflyersdk.com
+0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 display.bidder.taboola.com
+
+#============ EDGE ============
+0.0.0.0 msedge.sf.dl.delivery.mp.microsoft.com
 
 #============ 18 ============
 0.0.0.0 17erci.lbfang.com
