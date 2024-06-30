@@ -136,7 +136,6 @@
 0.0.0.0 dietschoolvirtually.com
 0.0.0.0 edge-hls.doppiocdn.com
 0.0.0.0 elixarco.com
-0.0.0.0 flyinghead.github.io
 0.0.0.0 fonts.offer.alibaba.com
 0.0.0.0 fonts.pepperjamnetwork.com
 0.0.0.0 fonts.shareasale.com
