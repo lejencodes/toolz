@@ -55,6 +55,10 @@
 0.0.0.0 xcggzzb.com
 0.0.0.0 ysxt9.com
 0.0.0.0 zha.ysxt9.com
+0.0.0.0 hotlinedisappointed.com
+0.0.0.0 app-vibe.com
+0.0.0.0 indiscreetjobroutine.com
+0.0.0.0 chagrintransfer.com
 
 #============ Others ============
 0.0.0.0 588539a.xyz
