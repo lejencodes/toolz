@@ -266,7 +266,8 @@
 0.0.0.0 trackswork.site
 0.0.0.0 goeco.social
 0.0.0.0 wookeezaichi.com
-
+0.0.0.0 play.hw8.live
+0.0.0.0 hw8.live
 
 #============ IDE ============
 0.0.0.0 blog.idejihuo.com
