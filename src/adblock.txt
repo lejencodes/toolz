@@ -220,6 +220,26 @@
 0.0.0.0 vip.ffzy-online6.com
 0.0.0.0 www.hnjiexi.com
 0.0.0.0 zhao-zupu.com
+0.0.0.0 disclosestockingsprestigious.com
+0.0.0.0 windrightyshade.com
+0.0.0.0 views.9stream.net
+0.0.0.0 qakzfubfozaj.com
+0.0.0.0 diffusedpassionquaking.com
+0.0.0.0 kneltopeningfit.com
+0.0.0.0 complainttattooshy.com
+0.0.0.0 mingledcounterfeittitanic.com
+0.0.0.0 commendhalf.com
+0.0.0.0 destituteuncommon.com
+0.0.0.0 chuckledpulpparked.com
+0.0.0.0 purgeregulation.com
+0.0.0.0 executeabattoir.com
+0.0.0.0 trayrubbish.com
+0.0.0.0 criticizewiggle.com
+0.0.0.0 chagrintransfer.com
+0.0.0.0 subscriberbeetlejackal.com
+0.0.0.0 axepallorstraits.com
+0.0.0.0 vidmoly.to
+0.0.0.0 cdn.staticmoly.me
 
 #============ IDE ============
 0.0.0.0 blog.idejihuo.com
