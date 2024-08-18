@@ -239,7 +239,22 @@
 0.0.0.0 subscriberbeetlejackal.com
 0.0.0.0 axepallorstraits.com
 0.0.0.0 vidmoly.to
+0.0.0.0 vidmoly.me
+0.0.0.0 ping.staticmoly.me
 0.0.0.0 cdn.staticmoly.me
+0.0.0.0 usefullybruiseddrunken.com
+0.0.0.0 cliffestablishedcrocodile.com
+0.0.0.0 peacefulburger.com
+0.0.0.0 api-post-iframe-rd.playkrx18.site
+0.0.0.0 mariadock.com
+0.0.0.0 askingsitting.com
+0.0.0.0 capitalhasterussian.com
+0.0.0.0 mov18plus.cloud
+0.0.0.0 ketchupethichaze.com
+0.0.0.0 understandablejeopardy.com
+0.0.0.0 cleanatrocious.com
+0.0.0.0 jogglenetwork.com
+0.0.0.0 chinacontraryintrepid.com
 
 #============ IDE ============
 0.0.0.0 blog.idejihuo.com
