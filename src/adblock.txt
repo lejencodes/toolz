@@ -59,6 +59,9 @@
 0.0.0.0 app-vibe.com
 0.0.0.0 indiscreetjobroutine.com
 0.0.0.0 chagrintransfer.com
+0.0.0.0 assets.heimuer.tv
+0.0.0.0 wl.youxi1998.vip
+0.0.0.0 pic.wlongimg.com
 
 #============ Others ============
 0.0.0.0 588539a.xyz
